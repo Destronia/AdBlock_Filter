@@ -1,8 +1,8 @@
 [Adblock Plus 3.8.0.2475]
-! Version: 3.0.0
+! Version: 3.1.2
 ! Title: Destronia Inc. Adblocker
-! Last modified: 14 Apr 2020 11:07 UTC
-! Expires: 4 days (update frequency)
+! Last modified: 14 Apr 2020 07:26 AWST
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! 
 ! Please report any unblocked adverts or problems:
