@@ -1,14 +1,14 @@
-[Adblock Plus 3.7.0.2456]
-! Version: 1.0.0
+[Adblock Plus 3.8.0.2475]
+! Version: 3.0.0
 ! Title: Destronia Inc. Adblocker
-! Last modified: 10 Feb 2020 02:16 UTC
+! Last modified: 14 Apr 2020 11:07 UTC
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/Destronia
+! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! 
 ! Please report any unblocked adverts or problems:
+! GitHub issues: https://github.com/Destronia/AdBlock_Filter/issues
 ! in the forums (https://destronia.namelesshosting.com/forum/)
 ! or via e-mail (server.destronia@gmail.com)
-! GitHub issues: https://github.com/destronia
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** destronia:destronia/destronia_general_block.txt ***
