@@ -7,7 +7,7 @@
 ! 
 ! Please report any unblocked adverts or problems:
 ! GitHub issues: https://github.com/Destronia/AdBlock_Filter/issues
-! in the forums (https://destronia.namelesshosting.com/forum/)
+! in the forums (https://destronia.namelesshosting.com/forum/view/24-adblock-filter-/)
 ! or via e-mail (server.destronia@gmail.com)
 ! 
 ! -----------------------General advert blocking filters-----------------------!
