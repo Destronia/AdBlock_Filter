@@ -3,7 +3,7 @@
 ! Title: Destronia Inc. Adblocker
 ! Last modified: 10 Feb 2020 02:16 UTC
 ! Expires: 4 days (update frequency)
-! Homepage: https://destronia.mcpro.io
+! Homepage: https://github.com/Destronia
 ! 
 ! Please report any unblocked adverts or problems:
 ! in the forums (https://destronia.namelesshosting.com/forum/)
