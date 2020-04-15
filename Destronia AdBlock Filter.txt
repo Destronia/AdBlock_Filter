@@ -68075,5 +68075,4 @@ blackspigot.com###exposeMask
 fiaharam.net###_bd
 fiaharam.net##.sm_content
 pornhub.com##.alpha
-minehut.com###doc-player
-minehut.com##.cld-video-player.cld-fluid.video-js.vjs-controls-enabled.vjs-workinghover.vjs-v7.cld-video-player-doc-player.cld-video-player-skin-dark.vjs-playlist.vjs-contextmenu.vjs-context-menu.vjs-fluid.doc-player-dimensions.vjs-has-started.vjs-paused.vjs-user-active
+er-active
