@@ -1,7 +1,7 @@
 [Adblock Plus 3.8.0.2475]
-! Version: 4.0.2
+! Version: 4.0.3
 ! Title: Destronia Filters
-! Last modified: 19 Apr 2020 04:06PM AWST
+! Last modified: 23 Apr 2020 04:19PM AWST
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
@@ -68085,3 +68085,6 @@ pcgamer.com##.jw-media.jw-reset
 pcgamer.com##.jw-wrapper.jw-reset
 pcgamer.com###botr_egqep2zS_xRndq6xb_div
 pcgamer.com##.jwplayer.jw-reset.jw-state-playing.jw-stretch-uniform.jw-breakpoint-0.jw-floating-dismissible.sticky-player.jw-flag-small-player
+downloadroms.io##.adlabel
+downloadroms.io##.ob_what.ob_what_resp
+downloadroms.io##.ob-grid-header-text
