@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.1.0
+! Version: 5.0.0
 ! Title: Destronia Filters
 ! Last modified: 24 Apr 2020 04:34PM AWST
 ! Expires: 5 days (update frequency)
@@ -68092,3 +68092,9 @@ pornhub.com##.removeAdLink
 pornhub.com###\31 587662276908
 pornhub.com##.pjddfngsmg
 pornhub.com##.ccdegoiccd
+!pornhub-blocked
+pornhub.com##.wrapper
+pornhub.com###footer
+pornhub.com##.footerContentWrapper
+pornhub.com###js-networkBar
+pornhub.com##.networkBar
