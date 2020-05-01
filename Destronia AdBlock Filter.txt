@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 5.0.1
+! Version: 5.0.2
 ! Title: Destronia Filters
-! Last modified: 30 Apr 2020 03:38PM AWST
+! Last modified: 01 May 2020 11:28AM AWST
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
@@ -68096,5 +68096,3 @@ minehut.com##.vjs-modal-dialog-content
 minehut.com##.vjs-error-display.vjs-modal-dialog
 minehut.com##.vjs-poster
 text2speech.org###mw
-youtube.com###masthead-ad
-youtube.com##.style-scope.ytd-rich-grid-renderer
