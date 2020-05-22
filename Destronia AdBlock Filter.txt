@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 6.0.0
+! Version: 6.0.1
 ! Title: Destronia Filters
-! Last modified: 01 May 2020 12:54PM AWST
-! Expires: 4 days (update frequency)
+! Last modified: 23 May 2020 03:04AM AWST
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
 ! 
@@ -77757,3 +77757,12 @@ mozilla-russia.org#@#img[width="88"][height="31"]
 @@||reseguiden.se^*.siteCatalyst.js
 ! Turkey
 @@||tvyo.com/player/plugins/comscorePlugin.swf?
+
+! More Ads
+||anysex.com/3-9-mgcdgcgeswd/inplayer.html
+||anysex.com/*/inplayer.html
+||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940820_video.mp4
+anysex.com##.fluid-b-footer
+anysex.com##.fluid-b-close-btn
+anysex.com##.fluid-b-title
+minecraft.gamepedia.com###siderail_minecraft_gamepedia
