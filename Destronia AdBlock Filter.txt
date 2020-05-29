@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 6.0.1
+! Version: 6.0.2
 ! Title: Destronia Filters
-! Last modified: 23 May 2020 03:04AM AWST
+! Last modified: 30 May 2020 02:03AM AWST
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
@@ -77766,3 +77766,4 @@ anysex.com##.fluid-b-footer
 anysex.com##.fluid-b-close-btn
 anysex.com##.fluid-b-title
 minecraft.gamepedia.com###siderail_minecraft_gamepedia
+||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940823_video.mp4
