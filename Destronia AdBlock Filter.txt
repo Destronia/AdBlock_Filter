@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
-! Version: 6.0.2
+[Adblock Plus 3.9]
+! Version: 6.0.3
 ! Title: Destronia Filters
-! Last modified: 30 May 2020 02:03AM AWST
+! Last modified: 07 July 2020 06:17PM <a href="https://www.timeanddate.com/time/zones/awst" style="font-size: 11px;" target="_self">AWST</a>
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
