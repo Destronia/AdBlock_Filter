@@ -1,14 +1,14 @@
-[Adblock Plus 3.9]
-! Version: 6.0.3
+[Adblock Plus 3.8.1.2481]
+! Version: 6.1.2
 ! Title: Destronia Filters
-! Last modified: 07 July 2020 06:17PM AWST
+! Last modified: 22 August 2020 05:58PM AWST
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
 ! 
 ! Please report any unblocked adverts or problems:
 ! GitHub: (https://github.com/Destronia/AdBlock_Filter/issues)
-! Forums: (https://destronia.namelesshosting.com/forum/view/24-adblock-filter-/)
+! Forums: (https://destronia.xyz/forum/view/24-adblock-filter-/)
 ! or via e-mail: (server.destronia@gmail.com)
 ! 
 ! -----------------------General advert blocking filters-----------------------!
@@ -77767,3 +77767,14 @@ anysex.com##.fluid-b-close-btn
 anysex.com##.fluid-b-title
 minecraft.gamepedia.com###siderail_minecraft_gamepedia
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940823_video.mp4
+||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/wpbyt.png
+||cdn2.wpbeginner.com/wp-content/uploads/2018/06/custombusinessemailaddress-180x180.png
+||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/startablog.png
+||cdn2.wpbeginner.com/wp-content/themes/wpbv5/images/blueprint.jpg
+wpbeginner.com##.wpbthumb
+wpbeginner.com##.featuredplugins.sidebardeals.widget
+wpbeginner.com##div[style="display:flex;width:100%;flex-direction:inherit;align-items:flex-start;background:transparent;border-style:solid;border-width:0px;border-color:#000000;border-top-left-radius:0%;border-top-right-radius:0%;border-bottom-right-radius:0%;border-bottom-left-radius:0%;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0px 0px 0px 0px #ffffff;max-width:100%"]
+wpbeginner.com##.orlando-ImageElement--content
+wpbeginner.com##.Element__content
+wpbeginner.com##.Campaign__content
+wpbeginner.com##.sidebardeals.widget
