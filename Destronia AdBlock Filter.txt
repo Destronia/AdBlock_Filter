@@ -1,7 +1,7 @@
 [Adblock Plus 3.8.1.2481]
-! Version: 6.1.4
+! Version: 6.1.5
 ! Title: Destronia Filters
-! Last modified: 22 August 2020 06:58PM AWST
+! Last modified: 21 September 2020 07:16PM AWST
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
@@ -77779,3 +77779,19 @@ wpbeginner.com##.Element__content
 wpbeginner.com##.Campaign__content
 wpbeginner.com##.sidebardeals.widget
 igg-games.com###toh
+youtube.com###banner
+youtube.com##.style-scope.ytd-action-companion-ad-renderer.no-transition
+igg-games.com###Lkg
+igg-games.com###DkY
+igg-games.com###/*
+igg-games.com###WPV
+newyorker.com###signInContainer
+newyorker.com##.container
+newyorker.com##.unit-overlay
+pornhub.com##.fnhupjddfn
+pornhub.com###\31 600506015135
+pornhub.com##.qkdfnhupjd
+pornhub.com###\31 600506607062
+pornhub.com##.dfngsmgqkd
+||tpc.googlesyndication.com/pagead/imgad?id=CICAgKDnzLH8yAEQrAIYPDIIcUp6-MlRV4o
+||static.steamanalyst.com/wwww/images/c456e7453ac08f340f20ec9caa6e97cb.gif
