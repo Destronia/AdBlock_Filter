@@ -77795,3 +77795,16 @@ pornhub.com###\31 600506607062
 pornhub.com##.dfngsmgqkd
 ||tpc.googlesyndication.com/pagead/imgad?id=CICAgKDnzLH8yAEQrAIYPDIIcUp6-MlRV4o
 ||static.steamanalyst.com/wwww/images/c456e7453ac08f340f20ec9caa6e97cb.gif
+www.google.com##.ua9Gvb.hide-focus-ring
+||cdn.myanimelist.net/images/event/app_202101/mal_app_minib_440k.gif$image
+myanimelist.net##.header-menu-login > .btn-mal-service
+||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak94fFhZBlcMBV9gCyNMAV1wJQJjU3hhRRFwayVJPwwBF1VBIxp5fVwMABxVUl80Qy0FUhB6dFU1VC8yT0F%2FaXBHYAYCRQZEIB1%2FfFcOAUBaVVc3WA%3D%3D$image
+||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak17cl1dAlcMUAkwDCZMUFgncAZiBHxjEBcqaScVb1ZRR1ZCdxkocgtZCkALW1hpQyAcUxAmfQBjAyhmE0R5byRBbgcFRQRGdk9yJlhaAU9UBgpmVQ%3D%3D$image
+||www.cryptocompare.com/media/35651456/mbit_side.gif$image
+www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel > .panel-heading
+www.cryptocompare.com##.col-md-3
+||www.cryptocompare.com/media/35651618/api-desktop.png$image
+||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
+||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
+||8b95e83a-madman-com-au.akamaized.net/assets/images/logos/animelab-symbol.png$image
+
