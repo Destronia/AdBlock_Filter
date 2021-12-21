@@ -1,6 +1,6 @@
-! Version: 6.2.0
+! Version: 6.3.0
 ! Title: Destronia Filters
-! Last modified: 27 April 2021 17:18 (AWST)
+! Last modified: 21 December 2021 21:29 (AWST)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
 ! 
@@ -77805,4 +77805,17 @@ www.cryptocompare.com##.col-md-3
 ||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
 ||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
 ||8b95e83a-madman-com-au.akamaized.net/assets/images/logos/animelab-symbol.png$image
-
+sbplay1.com##[href^="https://bemachopor.com/4/4485980/"]
+sbplay1.com##div:nth-of-type(4)
+oceanofepub.com##.k8902a-body
+oceanofepub.com##.k8902a-hide.k8902a-2.k8902a-container
+oceanofepub.com##.k1c98d-hide.k1c98d-2.k1c98d-container
+oceanofepub.com##.kf14c6-hide.kf14c6-2.kf14c6-container
+gogoplay1.com##[href^="https://metagle.xyz/worker/direct"]
+gogoplay1.com##body > div
+sbplay1.com##[src="https://cdn.imgsb.net/3bfegz8zb6gx_xt.jpg"]
+sbplay1.com##.contentbox > [src]
+linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
+linkvertise.com###count-down-block > .advertise
+sbplay2.com##[href^="https://ak.hetaruvg.com/4/3766233/"]
+sbplay2.com##div:nth-of-type(4)
