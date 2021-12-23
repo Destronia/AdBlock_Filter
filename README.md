@@ -5,5 +5,4 @@ Add this to your Adblock Filter Lists: "https://raw.githubusercontent.com/Destro
 
 - Reccomended AdBlocker's: 
                             [AdBlockPlus] https://adblockplus.org/ 
-                          
                             [uBlockOrigin] https://github.com/gorhill/uBlock
