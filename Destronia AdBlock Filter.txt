@@ -1,7 +1,7 @@
-! Version: 6.3.1
+! Version: 6.3.2
 ! Title: Destronia Filters
-! Last modified: 13 January 2022 13:52 (AWST)
-! Expires: 4 days (update frequency)
+! Last modified: 28 January 2022 20:57 (AWST)
+! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
 ! 
@@ -72094,7 +72094,6 @@ nethunt.com/api/v1/track/email/$image
 ||pixels.livingsocial.com^
 ||s.infogr.am^
 ||s.infogram.com^
-||s.youtube.com^
 ||s2.youtube.com^
 ||sp.app.com^
 ||sp.argusleader.com^
@@ -77730,7 +77729,16 @@ mozilla-russia.org#@#img[width="88"][height="31"]
 ! Turkey
 @@||tvyo.com/player/plugins/comscorePlugin.swf?
 
+
+! More Whitelists
+
+!This will break YouTube synchronization on mobile if enabled, that's why it is whitelisted.
+@@||s.youtube.com^$important
+
+
+
 ! More Ads
+
 ||anysex.com/3-9-mgcdgcgeswd/inplayer.html
 ||anysex.com/*/inplayer.html
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940820_video.mp4
