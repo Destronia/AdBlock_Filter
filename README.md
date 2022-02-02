@@ -3,4 +3,7 @@ Add this to your Adblock Filter Lists: "https://raw.githubusercontent.com/Destro
 
 - Installation Instructions: https://help.eyeo.com/adblockplus/add-a-filter-list
 
-- Reccomended AdBlocker: [uBlockOrigin] https://github.com/gorhill/uBlock
+- Reccomended AdBlockers: 	
+
+    - [uBlockOrigin] https://github.com/gorhill/uBlock 
+    - [uBlockOrigin] https://github.com/AdguardTeam
