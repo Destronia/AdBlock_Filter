@@ -16,4 +16,4 @@ You will find contribution documentation [here](https://github.com/Destronia/AdB
 - Recommended AdBlockers: 	
 
     - [uBlockOrigin] https://github.com/gorhill/uBlock 
-    - [uBlockOrigin] https://github.com/AdguardTeam
+    - [Adguard] https://github.com/AdguardTeam
