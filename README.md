@@ -11,7 +11,7 @@ Add this to your Adblock Filter Lists: "https://raw.githubusercontent.com/Destro
 
 ## Contributing
 
-You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRUBUTING.md).
+You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
 
 ## Misc. 
 - Recommended AdBlockers: 	
