@@ -9,13 +9,12 @@ Add this to your Adblock Filter Lists: "https://raw.githubusercontent.com/Destro
 
 - Installation Instructions: https://help.eyeo.com/adblockplus/add-a-filter-list
 
+<h2 align="center">Contributing</h2>
+
+You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
+
 ## Misc. 
 - Recommended AdBlockers: 	
 
     - [uBlockOrigin] https://github.com/gorhill/uBlock 
     - [Adguard] https://github.com/AdguardTeam
-
-
-<h2 align="center">Contributing</h2>
-
-You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
