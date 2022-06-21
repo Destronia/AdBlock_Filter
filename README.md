@@ -3,13 +3,13 @@
 [![Documentation Status](https://readthedocs.org/projects/adblock-filter/badge/?version=latest)](https://adblock-filter.readthedocs.io/en/latest/?badge=latest)
 
 # Destronia AdBlock Filter
-## Instructions
-
+<h2 align="center">Instructions</h2>
+<br/>
 Add this to your Adblock Filter Lists: "https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/Destronia%20AdBlock%20Filter.txt"
 
 - Installation Instructions: https://help.eyeo.com/adblockplus/add-a-filter-list
 
-## Contributing
+<h2 align="center">Contributing</h2>
 
 You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
 
