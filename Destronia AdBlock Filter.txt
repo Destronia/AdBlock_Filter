@@ -77728,29 +77728,29 @@ mozilla-russia.org#@#img[width="88"][height="31"]
 @@||reseguiden.se^*.siteCatalyst.js
 ! Turkey
 @@||tvyo.com/player/plugins/comscorePlugin.swf?
-
-
+!
+!
+!-------------------------------------------------------------------------------!
+!-------------- Destronia's ----------------------------------------------------!
+!-------------------------------------------------------------------------------!
+!
 ! More Whitelists
-
+!
 !This will break YouTube synchronization on mobile if enabled, that's why it is whitelisted.
 @@||s.youtube.com^$important
-
-
-
+!
 ! More Ads
-
+!
+!anysex.com
 ||anysex.com/3-9-mgcdgcgeswd/inplayer.html
 ||anysex.com/*/inplayer.html
-||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940820_video.mp4
 anysex.com##.fluid-b-footer
 anysex.com##.fluid-b-close-btn
 anysex.com##.fluid-b-title
-minecraft.gamepedia.com###siderail_minecraft_gamepedia
+! hentaihaven.xxx
+||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940820_video.mp4
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940823_video.mp4
-||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/wpbyt.png
-||cdn2.wpbeginner.com/wp-content/uploads/2018/06/custombusinessemailaddress-180x180.png
-||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/startablog.png
-||cdn2.wpbeginner.com/wp-content/themes/wpbv5/images/blueprint.jpg
+! wpbeginner.com
 wpbeginner.com##.wpbthumb
 wpbeginner.com##.featuredplugins.sidebardeals.widget
 wpbeginner.com##div[style="display:flex;width:100%;flex-direction:inherit;align-items:flex-start;background:transparent;border-style:solid;border-width:0px;border-color:#000000;border-top-left-radius:0%;border-top-right-radius:0%;border-bottom-right-radius:0%;border-bottom-left-radius:0%;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0px 0px 0px 0px #ffffff;max-width:100%"]
@@ -77758,16 +77758,25 @@ wpbeginner.com##.orlando-ImageElement--content
 wpbeginner.com##.Element__content
 wpbeginner.com##.Campaign__content
 wpbeginner.com##.sidebardeals.widget
-igg-games.com###toh
+! cdn*.wpbeginner.com
+||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/wpbyt.png
+||cdn2.wpbeginner.com/wp-content/uploads/2018/06/custombusinessemailaddress-180x180.png
+||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/startablog.png
+||cdn2.wpbeginner.com/wp-content/themes/wpbv5/images/blueprint.jpg
+! youtube.com
 youtube.com###banner
 youtube.com##.style-scope.ytd-action-companion-ad-renderer.no-transition
+! igggames.com
+igg-games.com###toh
 igg-games.com###Lkg
 igg-games.com###DkY
 igg-games.com###/*
 igg-games.com###WPV
+! newyorker.com
 newyorker.com###signInContainer
 newyorker.com##.container
 newyorker.com##.unit-overlay
+! pornhub.com
 pornhub.com##.fnhupjddfn
 pornhub.com###\31 600506015135
 pornhub.com##.qkdfnhupjd
@@ -77776,35 +77785,53 @@ pornhub.com##.dfngsmgqkd
 ||tpc.googlesyndication.com/pagead/imgad?id=CICAgKDnzLH8yAEQrAIYPDIIcUp6-MlRV4o
 ||static.steamanalyst.com/wwww/images/c456e7453ac08f340f20ec9caa6e97cb.gif
 www.google.com##.ua9Gvb.hide-focus-ring
+! myanimelist.net
 ||cdn.myanimelist.net/images/event/app_202101/mal_app_minib_440k.gif$image
 myanimelist.net##.header-menu-login > .btn-mal-service
+! juicygif.com
 ||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak94fFhZBlcMBV9gCyNMAV1wJQJjU3hhRRFwayVJPwwBF1VBIxp5fVwMABxVUl80Qy0FUhB6dFU1VC8yT0F%2FaXBHYAYCRQZEIB1%2FfFcOAUBaVVc3WA%3D%3D$image
 ||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak17cl1dAlcMUAkwDCZMUFgncAZiBHxjEBcqaScVb1ZRR1ZCdxkocgtZCkALW1hpQyAcUxAmfQBjAyhmE0R5byRBbgcFRQRGdk9yJlhaAU9UBgpmVQ%3D%3D$image
+! www.manageengine.com
+||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
+||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
+! www.cryptocompare.com
+||www.cryptocompare.com/media/35651618/api-desktop.png$image
 ||www.cryptocompare.com/media/35651456/mbit_side.gif$image
 www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel > .panel-heading
 www.cryptocompare.com##.col-md-3
-||www.cryptocompare.com/media/35651618/api-desktop.png$image
-||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
-||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
+! 8b95e83a-madman-com-au.akamaized.net
 ||8b95e83a-madman-com-au.akamaized.net/assets/images/logos/animelab-symbol.png$image
-sbplay1.com##[href^="https://bemachopor.com/4/4485980/"]
-sbplay1.com##div:nth-of-type(4)
+! oceanofepub.com
 oceanofepub.com##.k8902a-body
 oceanofepub.com##.k8902a-hide.k8902a-2.k8902a-container
 oceanofepub.com##.k1c98d-hide.k1c98d-2.k1c98d-container
 oceanofepub.com##.kf14c6-hide.kf14c6-2.kf14c6-container
+! gogoplay1.com
 gogoplay1.com##[href^="https://metagle.xyz/worker/direct"]
 gogoplay1.com##body > div
-sbplay1.com##[src="https://cdn.imgsb.net/3bfegz8zb6gx_xt.jpg"]
-sbplay1.com##.contentbox > [src]
+! linkvertise.com
 linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
 linkvertise.com###count-down-block > .advertise
+! sbplay1.com
+sbplay1.com##[href^="https://bemachopor.com/4/4485980/"]
+sbplay1.com##div:nth-of-type(4)
+sbplay1.com##[src="https://cdn.imgsb.net/3bfegz8zb6gx_xt.jpg"]
+sbplay1.com##.contentbox > [src]
+! sbplay2.com
 sbplay2.com##[href^="https://ak.hetaruvg.com/4/3766233/"]
 sbplay2.com##div:nth-of-type(4)
+! nxbrew.com
 nxbrew.com##a#\33 456258 > button	! https://nxbrew.com
-console.partnerize.com##._pendo-step-container-styles	! https://console.partnerize.com
-console.partnerize.com##div#pendo-backdrop._pendo-backdrop:nth-of-type(2)	! https://console.partnerize.com
+! https://console.partnerize.com
+console.partnerize.com##._pendo-step-container-styles
+console.partnerize.com##div#pendo-backdrop._pendo-backdrop:nth-of-type(2)	
+! phoenixnap.com
 ||phoenixnap.com/kb/wp-content/uploads/2021/04/flexservers-2021-silicon.jpg$image
+! www.trustedreviews.com
 www.trustedreviews.com##.row
+! www.geeksforgeeks.org
 www.geeksforgeeks.org##.login-modal-div
+! www.bmc.com
 www.bmc.com##.right.sidebar
+!minecraft.gamepedia.com
+minecraft.gamepedia.com###siderail_minecraft_gamepedia
