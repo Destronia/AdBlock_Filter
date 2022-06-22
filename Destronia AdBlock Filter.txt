@@ -77804,3 +77804,7 @@ sbplay2.com##div:nth-of-type(4)
 nxbrew.com##a#\33 456258 > button	! https://nxbrew.com
 console.partnerize.com##._pendo-step-container-styles	! https://console.partnerize.com
 console.partnerize.com##div#pendo-backdrop._pendo-backdrop:nth-of-type(2)	! https://console.partnerize.com
+||phoenixnap.com/kb/wp-content/uploads/2021/04/flexservers-2021-silicon.jpg$image
+www.trustedreviews.com##.row
+www.geeksforgeeks.org##.login-modal-div
+www.bmc.com##.right.sidebar
