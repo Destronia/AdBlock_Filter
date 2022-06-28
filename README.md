@@ -5,7 +5,7 @@
 # Destronia AdBlock Filter
 <h2 align="center">Instructions</h2>
 <br/>
-Add this to your Adblock Filter Lists: "https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/Destronia%20AdBlock%20Filter.txt"
+Add this to your Adblock Filter List: "https://github.com/redtrillix/AdBlock_Filter/blob/master/filters/filters.txt" <s>"https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/Destronia%20AdBlock%20Filter.txt"</s>
 
 - Installation Instructions: https://help.eyeo.com/adblockplus/add-a-filter-list
 
