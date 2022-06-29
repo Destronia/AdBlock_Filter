@@ -1,7 +1,7 @@
 ! Version: 6.6.0
 ! Title: Destronia Filters
-! Last modified: 29 June 2022 19:26 (AWST)
-! Expires: 3 days (update frequency)
+! Last modified: 22 June 2022 11:15 (AWST)
+! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
 ! 
@@ -77731,7 +77731,7 @@ mozilla-russia.org#@#img[width="88"][height="31"]
 !
 !
 !-------------------------------------------------------------------------------!
-!-------------- Additions ------------------------------------------------------!
+!-------------- Destronia's ----------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
 ! More Whitelists
@@ -77750,15 +77750,6 @@ anysex.com##.fluid-b-title
 ! hentaihaven.xxx
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940820_video.mp4
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940823_video.mp4
-||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940822_video.mp4$subdocument
-||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940822_video.mp4$subdocument
-||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940822_video.mp4$subdocument
-! pornhub.com
-pornhub.com##.fnhupjddfn
-pornhub.com###\31 600506015135
-pornhub.com##.qkdfnhupjd
-pornhub.com###\31 600506607062
-pornhub.com##.dfngsmgqkd
 ! wpbeginner.com
 wpbeginner.com##.wpbthumb
 wpbeginner.com##.featuredplugins.sidebardeals.widget
@@ -77785,28 +77776,18 @@ igg-games.com###WPV
 newyorker.com###signInContainer
 newyorker.com##.container
 newyorker.com##.unit-overlay
+! pornhub.com
+pornhub.com##.fnhupjddfn
+pornhub.com###\31 600506015135
+pornhub.com##.qkdfnhupjd
+pornhub.com###\31 600506607062
+pornhub.com##.dfngsmgqkd
 ||tpc.googlesyndication.com/pagead/imgad?id=CICAgKDnzLH8yAEQrAIYPDIIcUp6-MlRV4o
 ||static.steamanalyst.com/wwww/images/c456e7453ac08f340f20ec9caa6e97cb.gif
 www.google.com##.ua9Gvb.hide-focus-ring
 ! myanimelist.net
 ||cdn.myanimelist.net/images/event/app_202101/mal_app_minib_440k.gif$image
 myanimelist.net##.header-menu-login > .btn-mal-service
-myanimelist.net##.sUaidzctQfngSNMH-malside--l.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
-myanimelist.net##.wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
-myanimelist.net##.sUaidzctQfngSNMH-malside--r.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
-myanimelist.net##.wrapper > .sUaidzctQfngSNMH-pdatla > table
-myanimelist.net##.wrapper > .sUaidzctQfngSNMH-pdatla
-myanimelist.net##.sUaidzctQfngSNMH-malside--r.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table
-myanimelist.net##.sUaidzctQfngSNMH-malside--l.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table
-myanimelist.net##.border_top > div
-myanimelist.net##.pb24 > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
-myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > div > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
-myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > div > .sUaidzctQfngSNMH-pdatla > table
-myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > div > .sUaidzctQfngSNMH-pdatla
-myanimelist.net##div:nth-of-type(7)
-myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
-myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > .sUaidzctQfngSNMH-pdatla > table
-myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > .sUaidzctQfngSNMH-pdatla
 ! juicygif.com
 ||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak94fFhZBlcMBV9gCyNMAV1wJQJjU3hhRRFwayVJPwwBF1VBIxp5fVwMABxVUl80Qy0FUhB6dFU1VC8yT0F%2FaXBHYAYCRQZEIB1%2FfFcOAUBaVVc3WA%3D%3D$image
 ||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak17cl1dAlcMUAkwDCZMUFgncAZiBHxjEBcqaScVb1ZRR1ZCdxkocgtZCkALW1hpQyAcUxAmfQBjAyhmE0R5byRBbgcFRQRGdk9yJlhaAU9UBgpmVQ%3D%3D$image
@@ -77841,7 +77822,7 @@ sbplay2.com##[href^="https://ak.hetaruvg.com/4/3766233/"]
 sbplay2.com##div:nth-of-type(4)
 ! nxbrew.com
 nxbrew.com##a#\33 456258 > button	! https://nxbrew.com
-! console.partnerize.com
+! https://console.partnerize.com
 console.partnerize.com##._pendo-step-container-styles
 console.partnerize.com##div#pendo-backdrop._pendo-backdrop:nth-of-type(2)	
 ! phoenixnap.com
@@ -77854,16 +77835,3 @@ www.geeksforgeeks.org##.login-modal-div
 www.bmc.com##.right.sidebar
 !minecraft.gamepedia.com
 minecraft.gamepedia.com###siderail_minecraft_gamepedia
-! animixplay.to
-animixplay.to###topmid
-animixplay.to###papayads_iframe
-animixplay.to###streambottomright > .glyphicon-remove.glyphicon.xclose
-animixplay.to###belowcomment
-! megaup.net
-||ad.a-ads.com/1811811?size=300x250$subdocument
-||ad.a-ads.com/1811811$subdocument
-||ad.a-ads.com/1811811$subdocument
-! youtube.com
-www.youtube.com##.yt-simple-endpoint.ytd-display-ad-renderer.style-scope
-||www.gstatic.com/youtube/img/promos/growth/a401382c00a66a52c6f1926f784758e2236b11e353e2783daac7a69a589d80f3_2560x520.png$image
-||www.gstatic.com/youtube/img/promos/growth/a401382c00a66a52c6f1926f784758e2236b11e353e2783daac7a69a589d80f3_2560x520.png$image
