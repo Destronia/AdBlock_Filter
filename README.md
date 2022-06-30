@@ -7,9 +7,6 @@
 <br/>
 Add this to your Adblock Filter List: "https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/filters/filters.txt"
 
-[//]: # (This will be removed after a certain time has passed.)
-<s>"https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/Destronia%20AdBlock%20Filter.txt"</s> [Outdated]
-
 - Installation Instructions: https://help.eyeo.com/adblockplus/add-a-filter-list
 
 <h2 align="center">Contributing</h2>
