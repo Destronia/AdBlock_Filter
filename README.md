@@ -1,5 +1,5 @@
 [![Crowdin](https://badges.crowdin.net/destronia-adblock-filter/localized.svg)](https://crowdin.com/project/destronia-adblock-filter)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-MPL--2.0-blue)](https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE)
 [![Documentation Status](https://readthedocs.org/projects/adblock-filter/badge/?version=latest)](https://adblock-filter.readthedocs.io/en/latest/?badge=latest)
 
 # Destronia AdBlock Filter
