@@ -36,4 +36,4 @@ Please sign the [Destronia Contributor Agreement](https://cla-assistant.io/Destr
 <br>
 <br>
 <br>
-<p><sub><sup> This page is still a work in progress and we plan to add more information on the future, feel free to contribute to this document by reading <a href="https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md#write-documentation">this.</a></sup></sub></p>
+<p><sub><sup> This page is still a work in progress and we plan to add more information in the future, feel free to contribute to this document by reading <a href="https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md#write-documentation">this.</a></sup></sub></p>
