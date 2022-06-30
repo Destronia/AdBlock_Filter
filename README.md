@@ -11,10 +11,17 @@ Add this to your Adblock Filter List: "https://raw.githubusercontent.com/Destron
 
 <h2 align="center">Contributing</h2>
 
-You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md). (Work in Progress)
+You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
 
 ## Misc. 
 - Recommended AdBlockers: 	
 
     - [uBlockOrigin] https://github.com/gorhill/uBlock 
     - [Adguard] https://github.com/AdguardTeam
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><sub><sup> This page is still a work in progress and we plan to add more information on the future, feel free to contribute to this document by reading <a href="https://github.com/redtrillix/AdBlock_Filter/edit/master/CONTRIBUTING.md#write-documentation">this.</a></sup></sub></p>
