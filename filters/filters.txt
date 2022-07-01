@@ -1,6 +1,6 @@
-! Version: 6.7.0
+! Version: 6.8.0
 ! Title: Destronia Filters
-! Last modified: 01 July 2022 23:00 (AWST)
+! Last modified: 01 July 2022 23:18 (AWST)
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
@@ -77734,12 +77734,12 @@ mozilla-russia.org#@#img[width="88"][height="31"]
 !-------------- Additions ------------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
-! More Whitelists
+!
 !
 !This will break YouTube synchronization on mobile if enabled, that's why it is whitelisted.
 @@||s.youtube.com^$important
 !
-! More Ads
+!
 !
 !anysex.com
 ||anysex.com/3-9-mgcdgcgeswd/inplayer.html
@@ -77871,3 +77871,12 @@ www.youtube.com##.yt-simple-endpoint.ytd-display-ad-renderer.style-scope
 ssbstream.net##iframe:nth-of-type(1)
 ! nestify.io
 nestify.io##.elementor-sticky.elementor-section-height-default.elementor-section-boxed.footerTrial.elementor-element-2c30ee2.elementor-element.elementor-inner-section.elementor-section > .elementor-column-gap-default.elementor-container
+! redlightnetwork.net
+||hi3yf41fyfwh2rhyay63f53q-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/4098149e.gif$image
+! bluemediafiles.com
+bluemediafiles.com###Gvhmh2XelTTX8Wu
+bluemediafiles.com##iframe:nth-of-type(2)
+bluemediafiles.com##.zVOAKCjrzQ
+bluemediafiles.com##iframe:nth-of-type(3)
+! www.sliderrevolution.com
+www.sliderrevolution.com##rs-slide
