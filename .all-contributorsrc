@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "redtrillix",
+      "name": "redtrillix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54786587?v=4",
+      "profile": "https://destronia.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "AdBlock_Filter",
+  "projectOwner": "Destronia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
