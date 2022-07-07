@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Destronia/AdBlock_Filter?style=flat-square)
 [![GitHub license](https://img.shields.io/github/license/Destronia/AdBlock_Filter?style=flat-square)](https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE)
@@ -36,6 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://destronia.com"><img src="https://avatars.githubusercontent.com/u/54786587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>redtrillix</b></sub></a><br /><a href="https://github.com/Destronia/AdBlock_Filter/commits?author=redtrillix" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/JakeWasHere2"><img src="https://avatars.githubusercontent.com/u/63701873?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JakeWasHere2</b></sub></a><br /><a href="https://github.com/Destronia/AdBlock_Filter/commits?author=JakeWasHere2" title="Documentation">📖</a></td>
   </tr>
 </table>
 
