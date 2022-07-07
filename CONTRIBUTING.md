@@ -1,5 +1,8 @@
 # CONTRIBUTING 
-Here is how you can get involved, we appriciate all the help from these contributions.
+Here is how you can get involved, we appriciate all the help from these contributions. 
+<br>
+<br>
+You can add yourself as a recognised contributor via [AllContributors](https://allcontributors.org/docs/en/bot/usage).
 
 
 <h1 align="center">How to contribute</h1>
