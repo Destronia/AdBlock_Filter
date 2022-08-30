@@ -35,7 +35,7 @@ Thanks goes to these wonderful people (code):
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://destronia.com"><img src="https://avatars.githubusercontent.com/u/54786587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>redtrillix</b></sub></a><br /><a href="https://github.com/Destronia/AdBlock_Filter/commits?author=redtrillix" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://destronia.com"><img src="https://avatars.githubusercontent.com/u/54786587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>redtrillix</b></sub></a><br /><a href="https://github.com/Destronia/AdBlock_Filter/commits?author=redtrillix" title="Documentation">📖</a> <a href="https://github.com/Destronia/AdBlock_Filter/commits?author=redtrillix" title="Code">💻</a> <a href="https://github.com/Destronia/AdBlock_Filter/commits?author=redtrillix" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/JakeWasHere2"><img src="https://avatars.githubusercontent.com/u/63701873?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JakeWasHere2</b></sub></a><br /><a href="https://github.com/Destronia/AdBlock_Filter/commits?author=JakeWasHere2" title="Documentation">📖</a></td>
   </tr>
 </table>
