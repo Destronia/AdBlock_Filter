@@ -1,7 +1,7 @@
-! Version: 6.8.2
+! Version: 6.9.2
 ! Title: Destronia Filters
-! Last modified: 04 July 2022 10:41 (AWST)
-! Expires: 3 days (update frequency)
+! Last modified: 30 August 2022 17:28 (AWST)
+! Expires: 3 days
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
 ! 
@@ -77735,61 +77735,92 @@ mozilla-russia.org#@#img[width="88"][height="31"]
 !-------------------------------------------------------------------------------!
 !
 !
-!
 !This will break YouTube synchronization on mobile if enabled, that's why it is whitelisted.
 @@||s.youtube.com^$important
 !
 !
 !
-!anysex.com
+!
+! 8b95e83a-madman-com-au.akamaized.net
+||8b95e83a-madman-com-au.akamaized.net/assets/images/logos/animelab-symbol.png$image
+! ad.a-ads.com
+||ad.a-ads.com/1811811?size=300x250$subdocument
+||ad.a-ads.com/1811811$subdocument
+||ad.a-ads.com/1811811$subdocument
+! animixplay.to
+animixplay.to###topmid
+animixplay.to###papayads_iframe
+animixplay.to###streambottomright > .glyphicon-remove.glyphicon.xclose
+animixplay.to###belowcomment
+animixplay.to###topmid
+animixplay.to###streambottomright
+! answers.microsoft.com
+answers.microsoft.com##.ucsRailContainer
+! anysex.com
 ||anysex.com/3-9-mgcdgcgeswd/inplayer.html
 ||anysex.com/*/inplayer.html
 anysex.com##.fluid-b-footer
 anysex.com##.fluid-b-close-btn
 anysex.com##.fluid-b-title
+! bluemediafiles.com
+bluemediafiles.com###Gvhmh2XelTTX8Wu
+bluemediafiles.com##iframe:nth-of-type(2)
+bluemediafiles.com##.zVOAKCjrzQ
+bluemediafiles.com##iframe:nth-of-type(3)
+bluemediafiles.com##div:nth-of-type(14)
+bluemediafiles.com##div:nth-of-type(16)
+bluemediafiles.com##.sZyHYNINxxF861t
+bluemediafiles.com##div:nth-of-type(20)
+bluemediafiles.com##div:nth-of-type(22)
+bluemediafiles.com##iframe
+bluemediafiles.com##div:nth-of-type(25)
+bluemediafiles.com##div:nth-of-type(26)
+bluemediafiles.com##div:nth-of-type(27)
+bluemediafiles.com##div:nth-of-type(28)
+bluemediafiles.com##div:nth-of-type(29)
+bluemediafiles.com##div:nth-of-type(32)
+bluemediafiles.com##div:nth-of-type(34)
+bluemediafiles.com##div:nth-of-type(36)
+bluemediafiles.com##div:nth-of-type(38)
+bluemediafiles.com##div:nth-of-type(7)
+bluemediafiles.com##div:nth-of-type(8)
+bluemediafiles.com##div:nth-of-type(9)
+bluemediafiles.com##div:nth-of-type(10)
+bluemediafiles.com##div:nth-of-type(11)
+bluemediafiles.com##div:nth-of-type(12)
+bluemediafiles.com##div:nth-of-type(13)
+! cdn*.wpbeginner.com
+||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/wpbyt.png
+||cdn2.wpbeginner.com/wp-content/uploads/2018/06/custombusinessemailaddress-180x180.png
+||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/startablog.png
+||cdn2.wpbeginner.com/wp-content/themes/wpbv5/images/blueprint.jpg
+! console.partnerize.com
+console.partnerize.com##._pendo-step-container-styles
+console.partnerize.com##div#pendo-backdrop._pendo-backdrop:nth-of-type(2)
+! gogoplay1.com
+gogoplay1.com##[href^="https://metagle.xyz/worker/direct"]
+gogoplay1.com##body > div
 ! hentaihaven.xxx
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940820_video.mp4
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940823_video.mp4
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940822_video.mp4$subdocument
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940822_video.mp4$subdocument
 ||hentaihaven.xxx/wp-content/plugins/script-manager/iframe-proxy.php?src=aHR0cHM6Ly9hLmFkdG5nLmNvbS9nZXQvMTAwMDkzMjg/dGltZT0xNTgwODM3NzkyNTU4&a=true&media=https://hentaihaven.xxx/www/2019/02/940822_video.mp4$subdocument
-! pornhub.com
-pornhub.com##.fnhupjddfn
-pornhub.com###\31 600506015135
-pornhub.com##.qkdfnhupjd
-pornhub.com###\31 600506607062
-pornhub.com##.dfngsmgqkd
-! wpbeginner.com
-wpbeginner.com##.wpbthumb
-wpbeginner.com##.featuredplugins.sidebardeals.widget
-wpbeginner.com##div[style="display:flex;width:100%;flex-direction:inherit;align-items:flex-start;background:transparent;border-style:solid;border-width:0px;border-color:#000000;border-top-left-radius:0%;border-top-right-radius:0%;border-bottom-right-radius:0%;border-bottom-left-radius:0%;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0px 0px 0px 0px #ffffff;max-width:100%"]
-wpbeginner.com##.orlando-ImageElement--content
-wpbeginner.com##.Element__content
-wpbeginner.com##.Campaign__content
-wpbeginner.com##.sidebardeals.widget
-! cdn*.wpbeginner.com
-||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/wpbyt.png
-||cdn2.wpbeginner.com/wp-content/uploads/2018/06/custombusinessemailaddress-180x180.png
-||cdn3.wpbeginner.com/wp-content/themes/wpbv5/images/startablog.png
-||cdn2.wpbeginner.com/wp-content/themes/wpbv5/images/blueprint.jpg
-! youtube.com
-youtube.com###banner
-youtube.com##.style-scope.ytd-action-companion-ad-renderer.no-transition
-! igggames.com
+! igg-games.com
 igg-games.com###toh
 igg-games.com###Lkg
 igg-games.com###DkY
 igg-games.com###/*
 igg-games.com###WPV
-! newyorker.com
-newyorker.com###signInContainer
-newyorker.com##.container
-newyorker.com##.unit-overlay
-||tpc.googlesyndication.com/pagead/imgad?id=CICAgKDnzLH8yAEQrAIYPDIIcUp6-MlRV4o
-||static.steamanalyst.com/wwww/images/c456e7453ac08f340f20ec9caa6e97cb.gif
-www.google.com##.ua9Gvb.hide-focus-ring
+! juicygif.com
+||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak94fFhZBlcMBV9gCyNMAV1wJQJjU3hhRRFwayVJPwwBF1VBIxp5fVwMABxVUl80Qy0FUhB6dFU1VC8yT0F%2FaXBHYAYCRQZEIB1%2FfFcOAUBaVVc3WA%3D%3D$image
+||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak17cl1dAlcMUAkwDCZMUFgncAZiBHxjEBcqaScVb1ZRR1ZCdxkocgtZCkALW1hpQyAcUxAmfQBjAyhmE0R5byRBbgcFRQRGdk9yJlhaAU9UBgpmVQ%3D%3D$image
+! linkvertise.com
+linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
+linkvertise.com###count-down-block > .advertise
+! minecraft.gamepedia.com
+minecraft.gamepedia.com###siderail_minecraft_gamepedia
 ! myanimelist.net
-||cdn.myanimelist.net/images/event/app_202101/mal_app_minib_440k.gif$image
 myanimelist.net##.header-menu-login > .btn-mal-service
 myanimelist.net##.sUaidzctQfngSNMH-malside--l.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
 myanimelist.net##.wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
@@ -77807,30 +77838,34 @@ myanimelist.net##div:nth-of-type(7)
 myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
 myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > .sUaidzctQfngSNMH-pdatla > table
 myanimelist.net##.js-scrollfix-bottom-rel.rightside > div > .sUaidzctQfngSNMH-pdatla
-! juicygif.com
-||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak94fFhZBlcMBV9gCyNMAV1wJQJjU3hhRRFwayVJPwwBF1VBIxp5fVwMABxVUl80Qy0FUhB6dFU1VC8yT0F%2FaXBHYAYCRQZEIB1%2FfFcOAUBaVVc3WA%3D%3D$image
-||juicygif.com/showcontent.php?MXugvu=OzsiMBodCFdCEFwlXiNHTFttJQA%2FVio5WBosLmkcMFZCF0IPak17cl1dAlcMUAkwDCZMUFgncAZiBHxjEBcqaScVb1ZRR1ZCdxkocgtZCkALW1hpQyAcUxAmfQBjAyhmE0R5byRBbgcFRQRGdk9yJlhaAU9UBgpmVQ%3D%3D$image
-! www.manageengine.com
-||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
-||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
-! www.cryptocompare.com
-||www.cryptocompare.com/media/35651618/api-desktop.png$image
-||www.cryptocompare.com/media/35651456/mbit_side.gif$image
-www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel > .panel-heading
-www.cryptocompare.com##.col-md-3
-! 8b95e83a-madman-com-au.akamaized.net
-||8b95e83a-madman-com-au.akamaized.net/assets/images/logos/animelab-symbol.png$image
+myanimelist.net##.sUaidzctQfngSNMH-malside--l.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
+myanimelist.net##.sUaidzctQfngSNMH-malside--l.sUaidzctQfngSNMH-malside > .sUaidzctQfngSNMH-sticky-wrapper > .sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
+myanimelist.net##.sUaidzctQfngSNMH-pdatla > table > tbody > tr > td
+myanimelist.net##.sUaidzctQfngSNMH-pdatla > table
+myanimelist.net##.sUaidzctQfngSNMH-pdatla
+! nestify.io
+nestify.io##.elementor-sticky.elementor-section-height-default.elementor-section-boxed.footerTrial.elementor-element-2c30ee2.elementor-element.elementor-inner-section.elementor-section > .elementor-column-gap-default.elementor-container
+! newyorker.com
+newyorker.com###signInContainer
+newyorker.com##.container
+newyorker.com##.unit-overlay
+! nxbrew.com
+nxbrew.com##a#\33 456258 > button
 ! oceanofepub.com
 oceanofepub.com##.k8902a-body
 oceanofepub.com##.k8902a-hide.k8902a-2.k8902a-container
 oceanofepub.com##.k1c98d-hide.k1c98d-2.k1c98d-container
 oceanofepub.com##.kf14c6-hide.kf14c6-2.kf14c6-container
-! gogoplay1.com
-gogoplay1.com##[href^="https://metagle.xyz/worker/direct"]
-gogoplay1.com##body > div
-! linkvertise.com
-linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
-linkvertise.com###count-down-block > .advertise
+! phoenixnap.com
+||phoenixnap.com/kb/wp-content/uploads/2021/04/flexservers-2021-silicon.jpg$image
+! pornhub.com
+pornhub.com##.fnhupjddfn
+pornhub.com###\31 600506015135
+pornhub.com##.qkdfnhupjd
+pornhub.com###\31 600506607062
+pornhub.com##.dfngsmgqkd
+! redlightnetwork.net
+||hi3yf41fyfwh2rhyay63f53q-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/4098149e.gif$image
 ! sbplay1.com
 sbplay1.com##[href^="https://bemachopor.com/4/4485980/"]
 sbplay1.com##div:nth-of-type(4)
@@ -77839,44 +77874,54 @@ sbplay1.com##.contentbox > [src]
 ! sbplay2.com
 sbplay2.com##[href^="https://ak.hetaruvg.com/4/3766233/"]
 sbplay2.com##div:nth-of-type(4)
-! nxbrew.com
-nxbrew.com##a#\33 456258 > button
-! console.partnerize.com
-console.partnerize.com##._pendo-step-container-styles
-console.partnerize.com##div#pendo-backdrop._pendo-backdrop:nth-of-type(2)	
-! phoenixnap.com
-||phoenixnap.com/kb/wp-content/uploads/2021/04/flexservers-2021-silicon.jpg$image
-! www.trustedreviews.com
-www.trustedreviews.com##.row
-! www.geeksforgeeks.org
-www.geeksforgeeks.org##.login-modal-div
-! www.bmc.com
-www.bmc.com##.right.sidebar
-!minecraft.gamepedia.com
-minecraft.gamepedia.com###siderail_minecraft_gamepedia
-! animixplay.to
-animixplay.to###topmid
-animixplay.to###papayads_iframe
-animixplay.to###streambottomright > .glyphicon-remove.glyphicon.xclose
-animixplay.to###belowcomment
-! megaup.net
-||ad.a-ads.com/1811811?size=300x250$subdocument
-||ad.a-ads.com/1811811$subdocument
-||ad.a-ads.com/1811811$subdocument
-! youtube.com
-www.youtube.com##.yt-simple-endpoint.ytd-display-ad-renderer.style-scope
-||www.gstatic.com/youtube/img/promos/growth/a401382c00a66a52c6f1926f784758e2236b11e353e2783daac7a69a589d80f3_2560x520.png$image
-||www.gstatic.com/youtube/img/promos/growth/a401382c00a66a52c6f1926f784758e2236b11e353e2783daac7a69a589d80f3_2560x520.png$image
+! servertest.online
+servertest.online##footer > noindex
+! sharemods.com
+sharemods.com##.flex-wrap.align-items-center.justify-content-between.d-flex > iframe
+sharemods.com##.adb.flex-wrap.align-items-center.justify-content-center.d-flex > iframe
+sharemods.com##center > div > iframe
+sharemods.com##.agreement-text
 ! ssbstream.net
 ssbstream.net##iframe:nth-of-type(1)
-! nestify.io
-nestify.io##.elementor-sticky.elementor-section-height-default.elementor-section-boxed.footerTrial.elementor-element-2c30ee2.elementor-element.elementor-inner-section.elementor-section > .elementor-column-gap-default.elementor-container
-! redlightnetwork.net
-||hi3yf41fyfwh2rhyay63f53q-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/4098149e.gif$image
-! bluemediafiles.com
-bluemediafiles.com###Gvhmh2XelTTX8Wu
-bluemediafiles.com##iframe:nth-of-type(2)
-bluemediafiles.com##.zVOAKCjrzQ
-bluemediafiles.com##iframe:nth-of-type(3)
+! static.steamanalyst.com
+||static.steamanalyst.com/wwww/images/c456e7453ac08f340f20ec9caa6e97cb.gif
+! tpc.googlesyndication.com
+||tpc.googlesyndication.com/pagead/imgad?id=CICAgKDnzLH8yAEQrAIYPDIIcUp6-MlRV4o
+! wpbeginner.com
+wpbeginner.com##.wpbthumb
+wpbeginner.com##.featuredplugins.sidebardeals.widget
+wpbeginner.com##div[style="display:flex;width:100%;flex-direction:inherit;align-items:flex-start;background:transparent;border-style:solid;border-width:0px;border-color:#000000;border-top-left-radius:0%;border-top-right-radius:0%;border-bottom-right-radius:0%;border-bottom-left-radius:0%;border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0px 0px 0px 0px #ffffff;max-width:100%"]
+wpbeginner.com##.orlando-ImageElement--content
+wpbeginner.com##.Element__content
+wpbeginner.com##.Campaign__content
+wpbeginner.com##.sidebardeals.widget
+! www.bmc.com
+www.bmc.com##.right.sidebar
+! www.cryptocompare.com
+||www.cryptocompare.com/media/35651618/api-desktop.png$image
+||www.cryptocompare.com/media/35651456/mbit_side.gif$image
+www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel > .panel-heading
+www.cryptocompare.com##.col-md-3
+! www.geeksforgeeks.org
+www.geeksforgeeks.org##.login-modal-div
+! www.google.com
+www.google.com##.ua9Gvb.hide-focus-ring
+! cdn.myanimelist.net
+||cdn.myanimelist.net/images/event/app_202101/mal_app_minib_440k.gif$image
+! www.gstatic.com
+||www.gstatic.com/youtube/img/promos/growth/a401382c00a66a52c6f1926f784758e2236b11e353e2783daac7a69a589d80f3_2560x520.png$image
+||www.gstatic.com/youtube/img/promos/growth/a401382c00a66a52c6f1926f784758e2236b11e353e2783daac7a69a589d80f3_2560x520.png$image
+! www.manageengine.com
+||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
+||www.manageengine.com/patch-management/images/webinar-promo-banner-patch.png$image
 ! www.sliderrevolution.com
 www.sliderrevolution.com##rs-slide
+! www.trustedreviews.com
+www.trustedreviews.com##.row
+! www.youtube.com
+www.youtube.com###masthead-ad
+www.youtube.com##.yt-simple-endpoint.ytd-display-ad-renderer.style-scope
+www.youtube.com###foreground-content
+! youtube.com
+youtube.com###banner
+youtube.com##.style-scope.ytd-action-companion-ad-renderer.no-transition
