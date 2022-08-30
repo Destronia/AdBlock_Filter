@@ -1,6 +1,6 @@
-! Version: 6.9.2
+! Version: 6.9.0
 ! Title: Destronia Filters
-! Last modified: 30 August 2022 17:28 (AWST)
+! Last modified: 30 August 2022 20:11 (AWST)
 ! Expires: 3 days
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
 ! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
