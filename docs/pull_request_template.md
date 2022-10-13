@@ -1,36 +1,33 @@
-# Description
+# Description:
+<!--(Please include a summary of the changes and the related issue, reference issues and pull requests if applicable. Please also include relevant motivation and context.-->
 
-[//]: # (Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.)
-
-Fixes # (issue)
-
-## Type of change
-
-[//]: # (Please delete options that are not relevant.)
+## Type of change:
+<!--(Please delete options that are not relevant.)-->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
-
-# How Has This Been Tested?
-
-[//]: # (Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.)
-
-- [ ] Test A
-- [ ] Test B
-
-**Test Configuration**:
-
-[//]: # (List the configuration used in testing. Eg versions, programs.)
+- [ ] Filter-list Chnages
 
 # Checklist:
-[//]: # (Delete the ones that dont apply.)
+<!--(Please delete options that are not relevant.)-->
 
 - [ ] My changes follows the style guidelines of this project
 - [ ] I have performed a self-review of my changes
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have tested that these changes dont break anything
 - [ ] Any dependent changes have been merged and published in downstream modules
 
+## Screenshots
+<details>
+<summary> Proof showing the creation/modification is working as expected </summary>
+<!-- 
+    Screenshots of the appropriate chnages and files as well as changes on affected websites (if applicable).
+    Including these screenshots will assist the reviewing processes thus speeding up the process of the pull request being merged
+-->
+
+
+
+</details>
