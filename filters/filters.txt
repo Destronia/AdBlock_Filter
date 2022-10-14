@@ -11,5 +11,6 @@
 ! or via e-mail: (support@destronia.com)
 !
 !
+! As of 2022-10-13, new filters will be added to year-based sublists
 ! ----------------------- Start of filter lists -----------------------
 !#include filters2022.txt
