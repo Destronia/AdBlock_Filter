@@ -1,7 +1,9 @@
 name: 'Close stale issues and PRs'
 on:
   schedule:
-    - cron: '30 1 * * *'
+    - cron: '30 1 * * *' # Runs at 01:30 every day.
+    
+  workflow_dispatch:
 
 jobs:
   stale:
@@ -10,5 +12,5 @@ jobs:
       - uses: actions/stale@v6
         with:
           stale-issue-message: 'This issue is stale because it has been open 30 days with no activity. Remove stale label or comment or this will be closed in 5 days.'
-          days-before-stale: 30
-          days-before-close: 5
+          days-before-stale: 30 # After 30 days, it will mark untouched pr's as stale.
+          days-before-close: 5 # 5 days after the pr is marked as stale, it will be closed.
