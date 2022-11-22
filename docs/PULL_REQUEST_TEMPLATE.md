@@ -24,7 +24,7 @@
 <details>
 <summary> Proof showing the creation/modification is working as expected </summary>
 <!-- 
-    Screenshots of the appropriate chnages and files as well as changes on affected websites (if applicable).
+    Screenshots of the appropriate changes and files as well as changes on affected websites (if applicable).
     Including these screenshots will assist the reviewing processes thus speeding up the process of the pull request being merged
 -->
 
