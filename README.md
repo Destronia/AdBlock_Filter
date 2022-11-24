@@ -9,6 +9,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Destronia/AdBlock_Filter?style=social)
 
 # Destronia Adblock Filter List
+
 <h2>Instructions</h2>
 Installation Instructions for the filter list: https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists
 this may vary between program, but is fairly similar across the board
@@ -19,11 +20,12 @@ this may vary between program, but is fairly similar across the board
 
 You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
 
-## Misc. 
-- Recommended AdBlockers: 	
+## Misc
 
-    - [uBlockOrigin] https://github.com/gorhill/uBlock 
-    - [Adguard] https://github.com/AdguardTeam
+- Recommended AdBlockers:  
+
+  - [uBlockOrigin] <https://github.com/gorhill/uBlock>
+  - [Adguard] <https://github.com/AdguardTeam>
 <br>
 
 ## Contributors ✨
