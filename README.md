@@ -8,7 +8,7 @@
 
 # Destronia Adblock Filter List
 <h2>Instructions</h2>
-Installation Instructions for the filter list: https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists
+Installation Instructions for the filter list are [here](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists)
 this may vary between program, but is fairly similar across the board.
 
 1. Add this to your Adblock Filter List: "https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/filters/filters.txt"
