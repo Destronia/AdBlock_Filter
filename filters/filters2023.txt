@@ -1,5 +1,5 @@
 ! Version: 9.0.0
-! Title: Destronia General Filters
+! Title: Destronia General Filters (2023)
 ! Last modified: 21 February 2023 12:56 (UTC)
 ! Expires: 4 days
 ! Homepage: https://github.com/Destronia/AdBlock_Filter
@@ -9,10 +9,6 @@
 ! GitHub: (https://github.com/Destronia/AdBlock_Filter/issues)
 ! Forums: (https://destronia.com/forum/view/24-adblock-filter-/)
 ! or via e-mail: (support@destronia.com)
+! 
 !
-!
-! As of 2022-10-13, new filters will be added to year-based sublists
-! ----------------------- Start of filter lists -----------------------
-!#include filters2021.txt
-!#include filters2022.txt
-!#include filters2023.txt
+! -----------------------General advert blocking filters-----------------------
