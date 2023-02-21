@@ -18,7 +18,7 @@ This may vary between program, but is fairly similar across the board.
 
 <h2>Contributing</h2>
 
-You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md).
+You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/.github/CONTRIBUTING.md).
 
 ## Misc. 
 - Recommended AdBlockers: 	
