@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-- name: First interaction
-  uses: actions/first-interaction@v1.1.0
+safe: BOOL
+disable_disk_cache: BOOL
+timezone: Australia/Perth
