@@ -6,26 +6,52 @@
 [![Crowdin](https://badges.crowdin.net/destronia-adblock-filter/localized.svg)](https://crowdin.com/project/destronia-adblock-filter)
 [![Documentation Status](https://readthedocs.org/projects/adblock-filter/badge/?version=latest)](https://adblock-filter.readthedocs.io/en/latest/?badge=latest)
 
-# Destronia Adblock Filter List
-<h2>Instructions</h2>
+# Destronia AdBlock Filter
 
-Installation Instructions for the filter list are [here](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists/). 
-This may vary between program, but is fairly similar across the board.
+A curated set of AdBlock/uBlock/AdGuard filter rules maintained by the Destronia community. The repository is data-first — it stores filter lists and per-site rules organized by year.
 
-1. Add this to your Adblock Filter List following the instructions from the above section: "https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/filters/filters.txt"
-2. Make sure it is enabled and give it a refresh to make sure its up to date.
-3. If you have followed instructions correctly, you should have the Destronia Filter List working. If not, feel free to open an [issue](https://github.com/Destronia/AdBlock_Filter/issues/new/choose)
+## Quick install
 
-<h2>Contributing</h2>
+1. Open your adblocker's dashboard (for uBlock Origin: Dashboard → Filter lists → 3rd-party filters).
+1. Add this raw list URL as a third-party filter:
 
-You will find contribution documentation [here](https://github.com/Destronia/AdBlock_Filter/blob/master/.github/CONTRIBUTING.md).
+  [Raw filters.txt on GitHub](https://raw.githubusercontent.com/Destronia/AdBlock_Filter/master/filters/filters.txt)
 
-## Misc. 
-- Recommended AdBlockers: 	
+1. Enable the list and refresh/update filters in your blocker.
 
-    - [uBlockOrigin](https://github.com/gorhill/uBlock)
-    - [Adguard](https://github.com/AdguardTeam)
-<br>
+If you prefer a step-by-step guide for uBlock Origin, see the uBlock Origin docs: [Dashboard - Filter lists (3rd-party filters)](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists/)
+
+## Files and structure
+
+- `filters/filters.txt` — master list that includes year-based rule files.
+- `filters/filtersYYYY.txt` — year-scoped rule files (e.g. `filters2021.txt`).
+- `VERSION` — release version used for publishing.
+- `docs/` — documentation and contributor guides.
+
+Additions and edits should usually be made to the appropriate `filters202X.txt` file for the year of the change.
+
+## Contributing
+
+We welcome contributions. Small PRs are preferred (single-site or small related rule sets).
+
+Steps to contribute a new rule:
+
+1. Add the rule to the appropriate year file under `filters/` (create `filters2026.txt` if adding current-year rules).
+2. Include a short comment explaining the site/page targeted and why the rule is safe (see `docs/rules-layout.md`).
+3. Update `filters/filters.txt` only when adding a new year file — add an `!#include filters2026.txt` line and bump headers (see repo guidance).
+4. Open a PR with a concise title (for example: "Add block rule for example.com — fixes issue 123") and include test steps and a brief rationale.
+
+See the full contributing guide: .github/CONTRIBUTING.md
+
+## Troubleshooting
+
+- If ads still appear after enabling the list, force a manual update in your blocker and clear the browser cache.
+- If a site breaks after applying a rule, open an issue with the URL, a short description, and which rule you suspect.
+
+## Recommended blockers
+
+- uBlock Origin — lightweight and configurable: [uBlock Origin](https://github.com/gorhill/uBlock)
+- AdGuard — privacy-focused blocker with GUI apps: [AdGuard](https://github.com/AdguardTeam)
 
 ## Contributors ✨
 
@@ -47,10 +73,7 @@ Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p><sub><sup> This page is still a work in progress and we plan to add more information in the future, feel free to contribute to this document by reading <a href="https://github.com/Destronia/AdBlock_Filter/blob/master/CONTRIBUTING.md#write-documentation">this.</a></sup></sub></p>
+
+---
+
+This page is a work in progress. See `.github/CONTRIBUTING.md` for documentation contribution instructions.
