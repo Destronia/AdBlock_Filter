@@ -24,6 +24,7 @@ Example header:
 ```
 
 When releasing a new version:
+
 - Update `VERSION` to the new semver.
 - Update the `! Version:` line in `filters/filters.txt` to match `VERSION`.
 - Update `! Last modified:` to the current UTC date/time.
@@ -53,6 +54,7 @@ example.com##.promo-sticky
 ```
 
 Notes:
+
 - Prefer domain-limited cosmetic rules (`example.com##selector`) over global element rules.
 
 - Avoid rules like `##.ad` or `##div[id^="ad"]` without site scoping.
