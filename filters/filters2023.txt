@@ -1,14 +1,59 @@
-! Version: 9.0.0
-! Title: Destronia General Filters (2023)
-! Last modified: 21 February 2023 12:56 (UTC)
-! Expires: 4 days
-! Homepage: https://github.com/Destronia/AdBlock_Filter
-! Licence: https://github.com/Destronia/AdBlock_Filter/blob/master/LICENSE
-! 
-! Please report any problems here:
-! GitHub: (https://github.com/Destronia/AdBlock_Filter/issues)
-! Forums: (https://destronia.com/forum/view/24-adblock-filter-/)
-! or via e-mail: (support@destronia.com)
-! 
+! ----------------------------------Year 2023----------------------------------
 !
 ! -----------------------General advert blocking filters-----------------------
+!
+!
+!
+! animixplay.to
+animixplay.to###topmid
+animixplay.to###streambottomright
+! cyberpunk.fandom.com
+cyberpunk.fandom.com##.top-ads-container
+! hentaihaven.xxx
+hentaihaven.xxx##.vrav_a_pc
+! lh6.googleusercontent.com
+||lh3.googleusercontent.com/proxy/VCl7blyfvstxZwl1TkXi2bEAw7YxiMIySSxOxdpBUYe7lF9bVYkr-v7fPZceBhkLqC0XZLFlLSInRC5uYvYvb6xJNJ5HA_DNjFIqiCUzASsF8_jt24E_aTGo4irKy3qcoKzghHQ1xETj=w128-h67-s-nd$image
+||lh6.googleusercontent.com/proxy/eAXnXJ0NyNP0KJQOmDbpynrnmTTB7yIpTnAyv3y8LwulTcw7Xv5gFil4Nql6x9GW87rapa6H8FvaEc01KF33RtQp8rIWAyFMD01aZdfMPTewIany3-QrrJVLYWXx_3slArlzueH28MZxLg=w128-h67-s-nd$image
+! megaup.net
+||megaup.net/imageads/006.gif$image
+||ad.a-ads.com/1811811$subdocument
+||megaup.net/imageads/*$image
+! thepiratebay.org
+thepiratebay.org###d > .hyper-link
+! torrindex.net
+||torrindex.net/images/epv/728t.png$image
+||torrindex.net/images/epv/468.png$image
+||torrindex.net/images/epv/*$image
+||torrindex.net/images/epv/*$image
+||torrindex.net/images/epv/*.png$image
+||torrindex.net/images/ads/dlbtn.png$image
+||torrindex.net/images/epv/160.png$image
+||torrindex.net/images/epv/300.png$image
+||torrindex.net/images/epv/160.png$image
+||torrindex.net/images/epv/*$image
+! www.fiberopticshare.com
+||www.fiberopticshare.com/wp-content/uploads/2021/12/360-550*.jpg$image
+||www.fiberopticshare.com/wp-content/uploads/2021/12/360-550*.jpg$image
+||www.fiberopticshare.com/wp-content/uploads/2021/12/360-550*.jpg$image
+||www.fiberopticshare.com/wp-content/uploads/2021/12/360-550*.jpg$image
+||www.fiberopticshare.com/wp-content/uploads/2021/12/360-550*.jpg$image
+||www.fiberopticshare.com/wp-content/uploads/*$image
+! www.nexusmods.com
+||www.nexusmods.com/assets/images/download_bg_cut.png$image
+! www.pornhub.com
+www.pornhub.com##.clear.hd.q3s0payiburq12nplu.q3s0payiburq12nplr
+www.pornhub.com##.clearfix.q3s0payiburq12nplv > div > div > ins.adsbytrafficjunky
+www.pornhub.com##.clear.hd.p752vvi07gdl28u.p752vvi07gdl28r
+! www.whois.com
+www.whois.com##.chiclet-promo.chiclet > .slide
+www.whois.com##.chiclet-promo.chiclet
+www.whois.com##.chiclet-slides.chiclet
+||www.whois.com/images/chiclet_wph_300.png$image
+||www.whois.com/images/chiclet_wph_300.png$image
+! www.youtube.com
+www.youtube.com##.ytd-ad-slot-renderer.style-scope > .ytd-page-top-ad-layout-renderer.style-scope
+www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
+www.youtube.com###support
+www.youtube.com##.yt-simple-endpoint.ytd-display-ad-renderer.style-scope
+www.youtube.com###foreground-content
+www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope

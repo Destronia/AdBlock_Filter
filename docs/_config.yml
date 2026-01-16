@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+safe: BOOL
+disable_disk_cache: BOOL
+timezone: Australia/Perth
