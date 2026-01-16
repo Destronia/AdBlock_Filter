@@ -1,4 +1,4 @@
-! Version: 9.1.0
+! Version: 10.0.0
 ! Title: Destronia General Filters
 ! Last modified: 21 February 2023 10:00 (UTC)
 ! Expires: 4 days
