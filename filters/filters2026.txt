@@ -1,0 +1,13 @@
+! ----------------------------------Year 2026----------------------------------
+!
+! -----------------------General advert blocking filters-----------------------
+!
+!
+!
+! shockbyte.com
+panel.shockbyte.com###xc659c22mjg81748848554726
+panel.shockbyte.com###yi83q8jthcuo1748848554713
+panel.shockbyte.com###h9ar3ncc38p41748848634452
+! youtube.com
+www.youtube.com###contents-container > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
